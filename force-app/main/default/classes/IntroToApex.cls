@@ -17,7 +17,8 @@
 * By the end of this assignment, you'll have a solid understanding of the basics of Apex and be ready to tackle more complex
 * development challenges within the Salesforce ecosystem.
 * 
-* @author Your Name
+* @author Sal Gamez
+* @version 1.0
 */
 
 public with sharing class IntroToApex {
